@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">FindDoctor2</string>
+    <string name="Find">Find</string>
+    <string name="use_my_current_location">Use my current location</string>
+    <string name="what_are_you_looking_for">What are you looking for</string>
+    <string name="primary_care_doctor">primary care doctor</string>
+    <string name="enter_a_location">Enter a location</string>
+    <string name="do_you_have_insurence">Do you have insurence</string>
+    <string name="i_will_choose_later">I will choose later</string>
 </resources>
